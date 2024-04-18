@@ -29,11 +29,17 @@ body{
 p{
 	font-size:smaller;
 }
-.player_one{
-	width:100%
+video.player_one{
+	width:100%;
+	background-color:white;
+	padding:0px;
+	border-radious:1px;
+	background-color:rgb(255, 255, 255);
 }
 .player_two{
 	
 	width:100%;
-	
+	background-color:white;
+	padding:0px;
+	border-radious:1px;
 }
