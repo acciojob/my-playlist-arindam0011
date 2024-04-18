@@ -1,1 +1,39 @@
 /*  your css code here. If applicable */
+#slst{
+	list-style-type:none;
+}
+#centre{
+	text-align:center;
+}
+a{
+	text-decoration-line:none;
+	color:black;
+}
+.bg{
+	background-color:rgb(255, 255, 255);
+	padding:10px;
+	border:2px solid black;
+	border-radius:5px;
+}
+body{
+	background-color: rgb(204, 204, 204);
+}
+.bg1{
+	width:90%;
+	margin-inline:auto;
+}
+.bg2{
+	width:80%;
+	margin-inline:auto;
+}
+p{
+	font-size:smaller;
+}
+.player_one{
+	width:100%
+}
+.player_two{
+	
+	width:100%;
+	
+}
